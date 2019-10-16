@@ -7,8 +7,7 @@ import java.util.List;
 import java.util.Scanner;
 
 public class BgeUtility {
-    public BgeUtility() {
-    }
+    public BgeUtility(){}
 
     public void startAvProgrammet() {
         List<Person> medlemar = läsInKundlistaFrånFil();
@@ -28,7 +27,7 @@ public class BgeUtility {
     public List<Person> läsInKundlistaFrånFil() {
 
         List<Person> kundLista = new ArrayList<>();
-        try (Scanner sc = new Scanner(new File("src//customers.txt"));) {
+        try (Scanner sc = new Scanner(new File("src//customers.txt"))) {
             while (sc.hasNext()) {
                 String läserInKundlistaFrånFil = sc.nextLine().trim();
                 String personNr = läserInKundlistaFrånFil.substring(0, läserInKundlistaFrånFil.lastIndexOf(','));
@@ -39,7 +38,8 @@ public class BgeUtility {
             }
 
         } catch (FileNotFoundException e) {
-            e.printStackTrace();
+            JOptionPane.showMessageDialog(null,"Filen hittades inte");
+            System.exit(0);
         }
         return kundLista;
     }
@@ -56,7 +56,7 @@ public class BgeUtility {
             return input;
 
         } catch (NullPointerException e) {
-            e.getMessage();
+            e.printStackTrace();
         }
         return "";
     }
@@ -86,7 +86,8 @@ public class BgeUtility {
                 }
 
         } catch (IOException | NullPointerException e) {
-            e.printStackTrace();
+            JOptionPane.showMessageDialog(null,"Skriv inte till en fil");
+            System.exit(0);
         }
         return null;
     }
@@ -108,7 +109,8 @@ public class BgeUtility {
                 JOptionPane.showMessageDialog(null, "Okej");
 
         } catch (IOException | NullPointerException ex) {
-            ex.printStackTrace();
+            JOptionPane.showMessageDialog(null,"Skriv inte till en fil");
+            System.exit(0);
         }
         return null;
     }
