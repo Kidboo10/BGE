@@ -86,7 +86,7 @@ public class BgeUtility {
                 }
 
         } catch (IOException | NullPointerException e) {
-            JOptionPane.showMessageDialog(null,"Skriv inte till en fil");
+            JOptionPane.showMessageDialog(null,"Lyckades inte skriva till fil src//Incheckning.txt");
             System.exit(0);
         }
         return null;
@@ -109,7 +109,7 @@ public class BgeUtility {
                 JOptionPane.showMessageDialog(null, "Okej");
 
         } catch (IOException | NullPointerException ex) {
-            JOptionPane.showMessageDialog(null,"Skriv inte till en fil");
+            JOptionPane.showMessageDialog(null,"Lyckades inte skriva till fil src//Förnyat_medlemskap.txt");
             System.exit(0);
         }
         return null;
