@@ -7,7 +7,8 @@ import java.util.List;
 import java.util.Scanner;
 
 public class BgeUtility {
-    public BgeUtility(){}
+    public BgeUtility() {
+    }
 
     public void startAvProgrammet() {
         List<Person> medlemar = läsInKundlistaFrånFil();
@@ -20,6 +21,10 @@ public class BgeUtility {
             }
             String fixedInput = cleanUpList(input);
             Person p = retunerarKunderFrånLista(medlemar, fixedInput);
+            if (p != null)
+                JOptionPane.showMessageDialog(null, p);
+            if (p == null)
+                JOptionPane.showMessageDialog(null, " finns inte...");
             inCheckning(p);
         }
     }
@@ -38,7 +43,7 @@ public class BgeUtility {
             }
 
         } catch (FileNotFoundException e) {
-            JOptionPane.showMessageDialog(null,"Filen hittades inte");
+            JOptionPane.showMessageDialog(null, "Filen hittades inte");
             System.exit(0);
         }
         return kundLista;
@@ -64,11 +69,9 @@ public class BgeUtility {
     public Person retunerarKunderFrånLista(List<Person> hittaKund, String input) {
         for (int i = 0; i < hittaKund.size(); i++) {
             if (input.equalsIgnoreCase(hittaKund.get(i).getKundNamn()) || input.equalsIgnoreCase(hittaKund.get(i).getPersonNummer())) {
-                JOptionPane.showMessageDialog(null, hittaKund.get(i));
                 return hittaKund.get(i);
             }
         }
-        JOptionPane.showMessageDialog(null, " finns inte...");
         return null;
     }
 
@@ -86,7 +89,7 @@ public class BgeUtility {
                 }
 
         } catch (IOException | NullPointerException e) {
-            JOptionPane.showMessageDialog(null,"Lyckades inte skriva till fil src//Incheckning.txt");
+            JOptionPane.showMessageDialog(null, "Lyckades inte skriva till fil src//Incheckning.txt");
             System.exit(0);
         }
         return null;
@@ -96,7 +99,7 @@ public class BgeUtility {
         int i;
         try (BufferedWriter writer = new BufferedWriter(new FileWriter("src//Förnyat_medlemskap.txt", true))) {
             i = JOptionPane.showConfirmDialog(null, "Vill du förnya ditt medlemskap?"
-                    ,JOptionPane.OPTIONS_PROPERTY, JOptionPane.YES_NO_OPTION);
+                    , JOptionPane.OPTIONS_PROPERTY, JOptionPane.YES_NO_OPTION);
             if (i == 0) {
                 writer.write("Namne: " + person.getKundNamn() + "\n" + "PersonNr: " + person.getPersonNummer() + "\n"
                         + "Start datum: " + LocalDate.now() + "\n"
@@ -109,7 +112,7 @@ public class BgeUtility {
                 JOptionPane.showMessageDialog(null, "Okej");
 
         } catch (IOException | NullPointerException ex) {
-            JOptionPane.showMessageDialog(null,"Lyckades inte skriva till fil src//Förnyat_medlemskap.txt");
+            JOptionPane.showMessageDialog(null, "Lyckades inte skriva till fil src//Förnyat_medlemskap.txt");
             System.exit(0);
         }
         return null;
