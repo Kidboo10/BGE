@@ -1,310 +1,60 @@
+Namne: Liu Lingren
+PersonNr: 9110261234
+Datum: 2019-10-16
+klockslag:23:46:24
+
 Namne: Bear Belle
 PersonNr: 8104021234
-Datum: 2019-10-13
-klockslag:16:53:23
+Datum: 2019-10-16
+klockslag:23:46:34
+
+Namne: Bear Belle
+PersonNr: 8104021234
+Datum: 2019-10-17
+klockslag:00:05:32
 
 Namne: Nahema Ninsson
 PersonNr: 7805211234
-Datum: 2019-10-13
-klockslag:16:53:30
+Datum: 2019-10-17
+klockslag:00:05:46
 
-Namne: Mitsuko Mayotte
-PersonNr: 7907281234
-Datum: 2019-10-13
-klockslag:16:53:43
-
-Namne: Hilmer Heur
-PersonNr: 5711121234
-Datum: 2019-10-13
-klockslag:16:53:56
-
-Namne: Bear Belle
-PersonNr: 8104021234
-Datum: 2019-10-14
-klockslag:09:14:43
-
-Namne: Bear Belle
-PersonNr: 8104021234
-Datum: 2019-10-14
-klockslag:10:01:40
-
-Namne: Bear Belle
-PersonNr: 8104021234
-Datum: 2019-10-14
-klockslag:10:25:19
-
-Namne: Bear Belle
-PersonNr: 8104021234
-Datum: 2019-10-14
-klockslag:12:57:30
-
-Namne: Bear Belle
-PersonNr: 8104021234
-Datum: 2019-10-14
-klockslag:13:02:58
-
-Namne: Bear Belle
-PersonNr: 8104021234
-Datum: 2019-10-14
-klockslag:13:03:18
-
-Namne: Bear Belle
-PersonNr: 8104021234
-Datum: 2019-10-14
-klockslag:13:03:48
-
-Namne: Bear Belle
-PersonNr: 8104021234
-Datum: 2019-10-14
-klockslag:13:05:30
-
-Namne: Bear Belle
-PersonNr: 8104021234
-Datum: 2019-10-14
-klockslag:16:32:26
-
-Namne: Bear Belle
-PersonNr: 8104021234
-Datum: 2019-10-14
-klockslag:16:33:12
-
-Namne: Nahema Ninsson
-PersonNr: 7805211234
-Datum: 2019-10-15
-klockslag:11:04:42
-
-Namne: Bear Belle
-PersonNr: 8104021234
-Datum: 2019-10-15
-klockslag:11:29:34
-
-Namne: Nahema Ninsson
-PersonNr: 7805211234
-Datum: 2019-10-15
-klockslag:11:30:16
-
-Namne: Bear Belle
-PersonNr: 8104021234
-Datum: 2019-10-15
-klockslag:12:40:47
-
-Namne: Bear Belle
-PersonNr: 8104021234
-Datum: 2019-10-15
-klockslag:13:03:47
-
-Namne: Bear Belle
-PersonNr: 8104021234
-Datum: 2019-10-15
-klockslag:14:18:38
-
-Namne: Bear Belle
-PersonNr: 8104021234
-Datum: 2019-10-15
-klockslag:14:22:58
-
-Namne: Bear Belle
-PersonNr: 8104021234
-Datum: 2019-10-15
-klockslag:14:31:06
-
-Namne: Nahema Ninsson
-PersonNr: 7805211234
-Datum: 2019-10-15
-klockslag:14:31:45
-
-Namne: Bear Belle
-PersonNr: 8104021234
-Datum: 2019-10-15
-klockslag:15:03:58
-
-Namne: Nahema Ninsson
-PersonNr: 7805211234
-Datum: 2019-10-15
-klockslag:15:08:47
-
-Namne: Bear Belle
-PersonNr: 8104021234
-Datum: 2019-10-15
-klockslag:15:24:38
+Namne: Liu Lingren
+PersonNr: 9110261234
+Datum: 2019-10-17
+klockslag:00:06:01
 
 Namne: Greger Ganache
 PersonNr: 1111111111
-Datum: 2019-10-15
-klockslag:15:25:06
-
-Namne: Nahema Ninsson
-PersonNr: 7805211234
-Datum: 2019-10-15
-klockslag:15:31:07
-
-Namne: Bear Belle
-PersonNr: 8104021234
-Datum: 2019-10-15
-klockslag:15:37:26
-
-Namne: Bear Belle
-PersonNr: 8104021234
-Datum: 2019-10-15
-klockslag:16:58:30
-
-Namne: Bear Belle
-PersonNr: 8104021234
-Datum: 2019-10-15
-klockslag:17:19:28
-
-Namne: Bear Belle
-PersonNr: 8104021234
-Datum: 2019-10-15
-klockslag:17:22:20
-
-Namne: Nahema Ninsson
-PersonNr: 7805211234
-Datum: 2019-10-15
-klockslag:17:22:32
-
-Namne: Bear Belle
-PersonNr: 8104021234
-Datum: 2019-10-15
-klockslag:17:34:27
-
-Namne: Bear Belle
-PersonNr: 8104021234
-Datum: 2019-10-15
-klockslag:17:42:39
-
-Namne: Nahema Ninsson
-PersonNr: 7805211234
-Datum: 2019-10-15
-klockslag:17:42:59
-
-Namne: Bear Belle
-PersonNr: 8104021234
-Datum: 2019-10-16
-klockslag:09:53:11
-
-Namne: Bear Belle
-PersonNr: 8104021234
-Datum: 2019-10-16
-klockslag:09:59:12
-
-Namne: Bear Belle
-PersonNr: 8104021234
-Datum: 2019-10-16
-klockslag:10:02:10
-
-Namne: Nahema Ninsson
-PersonNr: 7805211234
-Datum: 2019-10-16
-klockslag:10:39:04
-
-Namne: Bear Belle
-PersonNr: 8104021234
-Datum: 2019-10-16
-klockslag:10:39:18
-
-Namne: Ida Idylle
-PersonNr: 2222222222
-Datum: 2019-10-16
-klockslag:10:57:03
-
-Namne: Ida Idylle
-PersonNr: 2222222222
-Datum: 2019-10-16
-klockslag:11:03:23
-
-Namne: Ida Idylle
-PersonNr: 2222222222
-Datum: 2019-10-16
-klockslag:11:06:33
-
-Namne: Ida Idylle
-PersonNr: 2222222222
-Datum: 2019-10-16
-klockslag:11:10:37
-
-Namne: Ida Idylle
-PersonNr: 2222222222
-Datum: 2019-10-16
-klockslag:11:22
-
-Namne: Ida Idylle
-PersonNr: 2222222222
-Datum: 2019-10-16
-klockslag:11:23:55
-
-Namne: Bear Belle
-PersonNr: 8104021234
-Datum: 2019-10-16
-klockslag:11:52:10
-
-Namne: Bear Belle
-PersonNr: 8104021234
-Datum: 2019-10-16
-klockslag:12:07:28
-
-Namne: Bear Belle
-PersonNr: 8104021234
-Datum: 2019-10-16
-klockslag:12:17:58
-
-Namne: Bear Belle
-PersonNr: 8104021234
-Datum: 2019-10-16
-klockslag:12:19:11
-
-Namne: Bear Belle
-PersonNr: 8104021234
-Datum: 2019-10-16
-klockslag:12:24:21
+Datum: 2019-10-17
+klockslag:00:06:45
 
 Namne: Liu Lingren
 PersonNr: 9110261234
-Datum: 2019-10-16
-klockslag:12:24:38
+Datum: 2019-10-17
+klockslag:12:55:06
 
 Namne: Bear Belle
 PersonNr: 8104021234
-Datum: 2019-10-16
-klockslag:12:25:21
+Datum: 2019-10-17
+klockslag:12:56:56
+
+Namne: Greger Ganache
+PersonNr: 1111111111
+Datum: 2019-10-17
+klockslag:13:12:12
+
+Namne: Bear Belle
+PersonNr: 8104021234
+Datum: 2019-10-17
+klockslag:13:33:43
+
+Namne: Nahema Ninsson
+PersonNr: 7805211234
+Datum: 2019-10-17
+klockslag:13:45:34
 
 Namne: Liu Lingren
 PersonNr: 9110261234
-Datum: 2019-10-16
-klockslag:13:03:30
-
-Namne: Mitsuko Mayotte
-PersonNr: 7907281234
-Datum: 2019-10-16
-klockslag:13:03:50
-
-Namne: Kadine Karlsson
-PersonNr: 4604151234
-Datum: 2019-10-16
-klockslag:13:04:34
-
-Namne: Bear Belle
-PersonNr: 8104021234
-Datum: 2019-10-16
-klockslag:14:31:24
-
-Namne: Bear Belle
-PersonNr: 8104021234
-Datum: 2019-10-16
-klockslag:14:53:26
-
-Namne: Liu Lingren
-PersonNr: 9110261234
-Datum: 2019-10-16
-klockslag:14:54:42
-
-Namne: Bear Belle
-PersonNr: 8104021234
-Datum: 2019-10-16
-klockslag:14:56:23
-
-Namne: Liu Lingren
-PersonNr: 9110261234
-Datum: 2019-10-16
-klockslag:14:56:38
+Datum: 2019-10-17
+klockslag:13:46:14
 
